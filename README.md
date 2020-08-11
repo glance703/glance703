@@ -1,1 +1,1 @@
-# r-saruta
+# curriculum
